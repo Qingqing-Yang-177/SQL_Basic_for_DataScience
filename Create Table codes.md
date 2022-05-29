@@ -2,9 +2,9 @@
 - Table
 - Temporary Table
 
-Code varies in different data management systems
+Codes varies in different relational database management systems
 
-#### Create a table
+## Create a table
 
     CREATE TABLE Shoes
       (
@@ -51,3 +51,15 @@ More recommended way, so we could know where the data is going, and only insert 
             NULL
               );
 
+## Create a temporary table
+
+- Temporary tables would be deleted when the current session is terminated
+- faster than creating a real table
+- useful with complex quiries using subsets and joins
+
+        CREATE TEMPORARY TABLE Sandals AS
+        (
+            SELECT *
+            FROM shoes
+            WHERE Type = 'Sandals'
+          )

@@ -22,3 +22,8 @@ Here are deeper materials for Data Modeling and ER Diagrams
 - [What is Data Modeling - An Introduction for Business Analysts](http://business-analysis-excellence.com/what-is-data-modeling/)
 - [Wikipedia: Data Modeling](https://en.wikipedia.org/wiki/Data_modeling)
 
+Materials for SQL and NoSQL comparison
+- [Dataconomy: SQL vs. NoSQL - What You Need to Know](https://dataconomy.com/2014/07/sql-vs-nosql-need-know/)
+- [TechRepublic: NoSQL keeps rising, but relational databases still dominate big data](https://www.techrepublic.com/article/nosql-keeps-rising-but-relational-databases-still-dominate-big-data/)
+- [SiliconRepublic: Data Science Skills: Is NoSQL Better than SQL?](https://www.siliconrepublic.com/careers/data-science-skills-sql)
+

@@ -14,7 +14,10 @@ Here are some useful starting materials:
 - [What is SQL and How is it used?](https://www.thebalancecareers.com/what-is-sql-and-uses-2071909)
 - [NTC Hosting for SQL](https://www.ntchosting.com/encyclopedia/databases/structured-query-language/)
 
-Here are deeper materials for Data Modeling and ER Diagrams
+Here are deeper materials for Data Modeling and ER Diagrams:
+
+<img width="600" alt="捕获" src="https://user-images.githubusercontent.com/93237538/170897753-1e4f65c4-a902-4bf7-9d10-dba72e1f9ad5.png">
+
 - [Norwalk Aberdeen: Entity-Relationship Diagrams (9 Minute YouTube Video)](https://www.youtube.com/watch?v=c0_9Y8QAstg)
 - [Star Schema vs. Snowflake Schema](https://www.vertabelo.com/blog/data-warehouse-modeling-star-schema-vs-snowflake-schema/)
 - [Explain Star Schema & Snow Flake Design (5 Minute YouTube Video)](https://www.youtube.com/watch?v=KUwOcip7Zzc)
